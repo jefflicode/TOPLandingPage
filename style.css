@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-img {
+.firstSectionContent > img {
     width: 25rem;
 }
 
@@ -73,4 +73,91 @@ button {
     flex-direction: column;
     flex-wrap: wrap;
     width: 25rem;
+}
+
+.firstImage > img {
+    height: 9rem;
+    width: 12rem;
+}
+
+.secondImage > img {
+    height: 9rem;
+    width: 12rem;
+}
+
+.thirdImage > img {
+    height: 9rem;
+    width: 12rem;
+}
+
+.fourthImage > img {
+    height: 9rem;
+    width: 12rem;
+}
+
+.secondSection {
+    font-family: 'Roboto', sans-serif;
+    width: 100vw;
+    min-height: 39vh;
+    /* background-color: #3882F6; */
+}
+
+.secondSectionTitle {
+    font-size: 2.25rem;
+    font-weight: 800;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+.fourImagesWithTexts {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+.firstImage, .secondImage, .thirdImage, .fourthImage {
+    display: flex;
+    flex-direction: column;
+    width: 12rem;
+}
+
+.firstImageText, .secondImageText, .thirdImageText, .fourthImageText {
+    color: #4c525e;
+    margin-top: 0.5rem;
+    font-size: 1.1875rem;
+}
+
+.thirdSection {
+    width: 100vw;
+    min-height: 39vh;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8.125rem;
+}
+
+.quoteText {
+    font-size: 2.25rem;
+    font-style: italic;
+    color: #323d4d;
+    display: flex;
+    flex-wrap: wrap;
+    width: 35.625rem;
+}
+
+.author {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 1.5rem;
+    position: relative;
+    top: -8.6875rem;
+    left: 65.3125rem;
 }
