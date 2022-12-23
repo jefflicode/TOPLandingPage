@@ -3,7 +3,7 @@ body {
 }
 
 img {
-    width: 400px;
+    width: 25rem;
 }
 
 .firstSection {
@@ -14,7 +14,7 @@ img {
 }
 
 .logo {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #F9FAF8;
 }
 
@@ -23,54 +23,54 @@ ul {
     display: flex;
     margin: 0;
     padding: 0;
-    gap: 19px;
+    gap: 1.1875rem;
 }
 
 a {
     text-decoration: none;
     color: #8e929a;
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 
 .mainText {
-    font-size: 48px;
+    font-size: 3rem;
     color: #F9FAF8;
     font-weight: 800;
 }
 
 .secondaryText {
     color: #8e929a;
-    font-size: 18px;
-    margin-top: 9px;
+    font-size: 1.125rem;
+    margin-top: 0.5625rem;
 }
 
 button {
     background-color: #3882F6;
     color: white;
-    border-radius: 8px;
+    border-radius: 0.5rem;
     border: 0;
-    width: 100px;
-    margin-top: 20px;
-    font-size: 19px;
-    padding: 5px;
+    width: 6.25rem;
+    margin-top: 1.25rem;
+    font-size: 1.1875rem;
+    padding: 0.3125rem;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 3px 10px;
+    padding: 0.1875rem 0.625rem;
 }
 
 .firstSectionContent {
     display: flex;
-    margin-top: 63px;
+    margin-top: 3.9375rem;
     justify-content: center;
-    gap: 30px;
+    gap: 1.875rem;
 }
 
 .textAndButton {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 400px;
+    width: 25rem;
 }
