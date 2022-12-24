@@ -1,2 +1,3 @@
 # TOP Landing Page Project
-[preview.pdf](https://github.com/jefflicode/TOPLandingPage/files/10297788/preview.pdf)
+
+![preview](https://user-images.githubusercontent.com/77180524/209416421-fde83110-c04c-4f2a-b8e9-864a053e58e5.png)
